@@ -13,8 +13,8 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/nft-preview-card-solution-responsive-felxbox-grid-pseudoelement-Ia0-6Xiryi)
+- Live Site URL: [Live Site](https://nft-preivew-card.vercel.app/)
 
 ## My process
 

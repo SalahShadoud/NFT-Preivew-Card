@@ -23,7 +23,6 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 3. I Wrote out the base styles for the project.
 4. I Started adding styles to the top of the page, Secton by Section.
 5. I Adjusted/Changed some lines of code for the responsiveness of the project.
-Built with
 
 ### Built with
 
